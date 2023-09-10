@@ -13,7 +13,8 @@
 
 <h4 align="center">
 
-Currently, I'm a **[UC Berkeley]((https://www.google.com/maps/place/Berkeley,+CA/data=!4m2!3m1!1s0x808579363a8549d3:0x94ea1595a675e993?sa=X&ved=2ahUKEwj-6eqt0Z-BAxXEPUQIHes8AxcQ8gF6BAgREAA&ved=2ahUKEwj-6eqt0Z-BAxXEPUQIHes8AxcQ8gF6BAgTEAI))** student, studying computer science in the College of Letters & Sciences. For more information, view my **[resume](https://lime-bobbe-11.tiiny.site)**.
+Currently, I'm a **[UC Berkeley]((https://www.google.com/maps/place/Berkeley,+CA/data=!4m2!3m1!1s0x808579363a8549d3:0x94ea1595a675e993?sa=X&ved=2ahUKEwj-6eqt0Z-BAxXEPUQIHes8AxcQ8gF6BAgREAA&ved=2ahUKEwj-6eqt0Z-BAxXEPUQIHes8AxcQ8gF6BAgTEAI))** student, studying computer science in the <br>
+College of Letters & Sciences. For more information, view my **[resume](https://lime-bobbe-11.tiiny.site)**.
 
 Please feel free to clone/fork projects, raise issues and submit PRs.
 
