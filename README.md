@@ -1,6 +1,5 @@
 <div align="center">
 <h1 align="center">Hi, I'm Jisung 👋 </h1>
-<h4 align="center">
 
 <a href="https://www.linkedin.com/in/jisung-lee-496539222/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -12,7 +11,7 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
 
-</br>
+<h4 align="center">
 
 Currently, I'm a **[UC Berkeley]((https://www.google.com/maps/place/Berkeley,+CA/data=!4m2!3m1!1s0x808579363a8549d3:0x94ea1595a675e993?sa=X&ved=2ahUKEwj-6eqt0Z-BAxXEPUQIHes8AxcQ8gF6BAgREAA&ved=2ahUKEwj-6eqt0Z-BAxXEPUQIHes8AxcQ8gF6BAgTEAI))** student, studying computer science in the College of Letters & Sciences. For more information, view my **[resume](https://lime-bobbe-11.tiiny.site)**.
 
