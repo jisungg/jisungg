@@ -15,7 +15,7 @@
 - 💡 Passionate about **software development, quantitative finance, and AI/ML research**  
 - 📈 **Funded futures trader** & market analyst  
 - 🏗️ Building **tech solutions & trading communities**  
-- 📄 View my **[resume](/assets/resume)**  
+- 📄 View my **[resume](./resume/Jisung%20Lee%20Resume.pdf)**  
 
 ---
 
