@@ -3,13 +3,10 @@
 
 <a href="https://www.linkedin.com/in/jisung-lee-496539222/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-<a href="https://www.instagram.com/jiswing/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="10"/></a>
 <a href="mailto:jisung.lee.2005@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="10"/></a>
 
 <h4 align="center">
 
